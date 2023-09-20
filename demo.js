@@ -1,6 +1,6 @@
 function print()
 {
-  console.log("Hello Scaler. This is challenge 20")
+  console.log("Hello Scaler. working on challenge 20")
 }
 
 print();
